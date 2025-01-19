@@ -331,3 +331,7 @@
 
 
 > ***Note:*** Problems marked with `*` are added as per my recommendations.
+
+other suggestions
+- https://www.techinterviewhandbook.org/best-coding-interview-courses/
+- https://realtoughcandy.com/coding-interview-prep/#1_Grokking_the_Coding_Interview_%E2%80%93_Educativeio
